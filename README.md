@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kushaldotel
 - 👀 I’m interested Python Programming and Machine Learning
 - 🌱 I’m currently working as a Backend Developer
-- 💞️ I’m looking to collaborate with different backend tech startups or compainies
+- 💞️ I’m always open to collaborate with different tech startups
 - 📫 You can reach me through https://www.linkedin.com/in/kushal-dotel-047014233/
 
 <!---
